@@ -1,4 +1,4 @@
-# treasure-hunt
+# Treasure Hunt
 
 ### Run program
 Masukan command ini di terminal
